@@ -70,11 +70,6 @@ Troubleshooting
 - Missing templates: ensure templates live under `task_assignment/templates/` and `APP_DIRS=True` is set in settings.
 - App not recognized: ensure `'task_assignment'` is present in `INSTALLED_APPS` in `tms/settings.py`.
 
-Next improvements (suggestions)
------------------------------
-- Add date picker to `mark-attendance` to select dates other than today.
-- Add admin pages for quick data management.
-- Add tests for the attendance workflow.
 
 Contact
 -------
