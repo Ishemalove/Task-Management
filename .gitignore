@@ -1,0 +1,12 @@
+# Ignore Python virtual environments
+env/
+venv/
+
+# Ignore Django database
+db.sqlite3
+
+# Ignore system files
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
