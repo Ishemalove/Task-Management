@@ -71,6 +71,3 @@ Troubleshooting
 - App not recognized: ensure `'task_assignment'` is present in `INSTALLED_APPS` in `tms/settings.py`.
 
 
-Contact
--------
-If you want more features or help wiring PostgreSQL, tell me which task to implement next.
